@@ -18,8 +18,15 @@ possible selection, not just the one which will actually be chosen since this is
 
 - [2011 Category Theoretic Analysis of Hierarchical Protein Materials and Social Networks](./2011-category-theory-protien-spivak.pdf) by David I. Spivak, Tristan Giesa, Elizabeth Wood, Markus J. Buehler. "Here we describe an application of category theory to describe structural and resulting functional properties of biological protein materials by developing so-called ologs. An olog is like a ‘‘concept web’’ or ‘‘semantic network’’ except that it follows a rigorous mathematical formulation based on category theory."
 
-Category Theoretic Analysis of Hierarchical Protein
-Materials and Social Networks
+- [2014 A Tutorial on Principal Component Analysis](https://arxiv.org/pdf/1404.1100.pdf) by Jonathon Shlens.  Principal component analysis (PCA) is a mainstay of modern data analysis - a black box that is widely used
+but (sometimes) poorly understood. The goal of this paper is to dispel the magic behind this black box. This
+manuscript focuses on building a solid intuition for how and why principal component analysis works. This
+manuscript crystallizes this knowledge by deriving from simple intuitions, the mathematics behind PCA. This
+tutorial does not shy away from explaining the ideas informally, nor does it shy away from the mathematics. The
+hope is that by addressing both aspects, readers of all levels will be able to gain a better understanding of PCA as
+well as the when, the how and the why of applying this technique.
+
+
 
 ## Notable blog posts
 - [2015 - The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) by Andrej Karpathy.
