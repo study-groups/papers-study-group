@@ -24,6 +24,18 @@ The discussion is largely self-contained and proceeds from first principles; bas
 concepts of the theory of random processes are reviewed in the Appendix. 
 
 - [1974 Spurious Regressions In Econometrics](./1974-granger-newbold.pdf) Journal of Econometrics. The point of view we intend  to take is that of the statistical time series analyst, rather than the more classic econometric approach. In this way it is hoped that we might be able to illuminate the problem from a new angle, and hence perhaps present new insights. Accordingly, in the following section we summarize some relevant results in time series analysis. In sect. 3 we indicate how nonsense regressions relating economic time series can arise, and illustrate these points in sect. 4 with the results of a simulation study. Finally, in sect. 5, we re-emphasize the importance of error specification and draw a distinction between the philosophy of time series analysis and econometric methodology, which we feel to be of great importance to practitioners of the latter. 
+- [1990 Why Functional Programming Matters](https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf) 
+by John Hughes. As software becomes more and more complex, it is more and more
+important to structure it well. Well-structured software is easy to write
+and to debug, and provides a collection of modules that can be reused
+to reduce future programming costs. In this paper we show that two features of functional languages in particular, higher-order functions and lazy
+evaluation, can contribute significantly to modularity. As examples, we
+manipulate lists and trees, program several numerical algorithms, and implement the alpha-beta heuristic (an algorithm from Artificial Intelligence
+used in game-playing programs). We conclude that since modularity is the
+key to successful programming, functional programming offers important
+advantages for software development.
+
+
 
 - [2001 A preprocessing scheme for high-cardinality categorical attributes in classification and prediction problems](./2001-predicting-high-cardinality-barreca.pdf) by Daniele Micci-Barreca. Categorical data fields characterized by a large number of distinct values represent a serious challenge for many classification and regression algorithms that require numerical inputs. On the other hand, these types of data fields are quite common in real-world data mining applications and often contain potentially relevant information that is difficult to represent for modeling purposes.This paper presents a simple preprocessing scheme for high-cardinality categorical data that allows this class of attributes to be used in predictive models such as neural networks, linear and logistic regression. The proposed method is based on a well-established statistical method (empirical Bayes) that is straightforward to implement as an in-database procedure. Furthermore, for categorical attributes with an inherent hierarchical structure, like ZIP codes, the preprocessing scheme can directly leverage the hierarchy by blending statistics at the various levels of aggregation.While the statistical methods discussed in this paper were first introduced in the mid 1950's, the use of these methods as a preprocessing step for complex models, like neural networks, has not been previously discussed in any literature.
 
