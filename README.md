@@ -39,6 +39,14 @@ advantages for software development.
 
 - [2001 A preprocessing scheme for high-cardinality categorical attributes in classification and prediction problems](./2001-predicting-high-cardinality-barreca.pdf) by Daniele Micci-Barreca. Categorical data fields characterized by a large number of distinct values represent a serious challenge for many classification and regression algorithms that require numerical inputs. On the other hand, these types of data fields are quite common in real-world data mining applications and often contain potentially relevant information that is difficult to represent for modeling purposes.This paper presents a simple preprocessing scheme for high-cardinality categorical data that allows this class of attributes to be used in predictive models such as neural networks, linear and logistic regression. The proposed method is based on a well-established statistical method (empirical Bayes) that is straightforward to implement as an in-database procedure. Furthermore, for categorical attributes with an inherent hierarchical structure, like ZIP codes, the preprocessing scheme can directly leverage the hierarchy by blending statistics at the various levels of aggregation.While the statistical methods discussed in this paper were first introduced in the mid 1950's, the use of these methods as a preprocessing step for complex models, like neural networks, has not been previously discussed in any literature.
 
+- [2002: The origins of Logistic Regression](https://papers.tinbergen.nl/02119.pdf) by J.S. Cramer. 
+This paper describes the origins of thelogistic function, its adoption in bio-assay, 
+and its wider acceptance in statistics. Its roots spread far back to the early 19th
+century, the sruvial of the term *logistc* and the wide application of the device have
+been determined decisively by the personal history and individual action of 
+a few scholars.
+
+
 - [2011 Category Theoretic Analysis of Hierarchical Protein Materials and Social Networks](./2011-category-theory-protien-spivak.pdf) by David I. Spivak, Tristan Giesa, Elizabeth Wood, Markus J. Buehler. "Here we describe an application of category theory to describe structural and resulting functional properties of biological protein materials by developing so-called ologs. An olog is like a ‘‘concept web’’ or ‘‘semantic network’’ except that it follows a rigorous mathematical formulation based on category theory."
 
 - [2014 A Tutorial on Principal Component Analysis](https://arxiv.org/pdf/1404.1100.pdf) by Jonathon Shlens.  Principal component analysis (PCA) is a mainstay of modern data analysis - a black box that is widely used
